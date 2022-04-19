@@ -3,4 +3,4 @@ centralized or decentralized.
 Hummingbot is software that helps you build and run automated trading strategies, or bots.
 Hummingbot bridges the centralized and decentralized worlds
 With connectors to both centralized and decentralized exchanges, Hummingbot lets users arbitrage price differences between exchanges while improving overall market liquidity.
-hummng bot
+Humming bot is  a modular framework for building highly reliable  and high performance trading bot.
