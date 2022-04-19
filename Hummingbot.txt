@@ -1,2 +1,3 @@
 Hummingbot is open source software that helps you build market making and arbitrage bots that run on any crypto exchange,
 centralized or decentralized.
+Hummingbot is software that helps you build and run automated trading strategies, or bots.
