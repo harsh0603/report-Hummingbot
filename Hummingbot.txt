@@ -1,1 +1,2 @@
-this is the file for the report of hummingbot
+Hummingbot is open source software that helps you build market making and arbitrage bots that run on any crypto exchange,
+centralized or decentralized.
